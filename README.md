@@ -1,4 +1,20 @@
 # Data-Science-Exercises
-Exercise sets with solutions for all topics in Data Science
-
-New topics will be added as I work through them.
+Exercise sets from Excel for Data Science course with solutions for the following topics : 
+- Basic Statistics Level 1
+- Basic Statistics Level 2
+- Hypothesis Testing
+- Simple Linear Regression
+- Multi-Linear Regression
+- Logistic Regression
+- Clustering
+- Principal Component Analysis
+- Association Rules
+- Recommendation System
+- Text Mining
+- Naive Bayes
+- K-Nearest Neighbours
+- Decision Trees
+- Random Forests
+- Neural Networks
+- Support Vector Machines
+- Forecasting
